@@ -11,12 +11,12 @@
   </head>
   <body>
     <div class="topcontainer">
-      <img class="mypic" src="images/Arya.png/" alt="my-pic" height="100px" width="100px" >
-      <img class="top-cloud" src="images/cloud.png/" alt="cloud-img" height="50px" width="200px">
+      <img class="mypic" src="images/Arya.PNG/" alt="my-pic" height="100px" width="100px" >
+      <img class="top-cloud" src="images/cloud.PNG/" alt="cloud-img" height="50px" width="200px">
       <h1>I'm Aarya.</h1>
       <h2>a <span class="pro">web developer.</span></h2>
-      <img class="bottom-cloud" src="images/cloud.png/" alt="cloud-img" height="50px" width="200px">
-      <img class="mountain" src="images/mountain.png/" alt="mountain-img">
+      <img class="bottom-cloud" src="images/cloud.PNG/" alt="cloud-img" height="50px" width="200px">
+      <img class="mountain" src="images/mountain.PNG/" alt="mountain-img">
     </div>
     <div class="middle-container">
       <div class="profile">
